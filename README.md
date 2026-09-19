@@ -626,9 +626,9 @@ Manoj Kumar M
 
 
 
-<div align="center">
 
-⭐ If you found this project useful, consider giving it a star!
+
+**⭐ If you found this project useful, consider giving it a star!**
 
 
 
@@ -636,5 +636,5 @@ Built with 🐍 Python • 📊 Power BI • 📈 Data Analytics
 
 
 
-</div>
+
 
